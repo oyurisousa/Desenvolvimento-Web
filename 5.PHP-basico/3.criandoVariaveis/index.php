@@ -3,7 +3,7 @@
 // o '$' define uma variavel ex: $nome
     
 /*
-    $nome = "carlos";
+    $nome = "sousa";
     echo "meu nome é ";
     echo $nome;
     echo '</br>';
