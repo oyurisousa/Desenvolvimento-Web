@@ -1,0 +1,14 @@
+<html>
+    <head>
+        <title>PHP básico</title>
+        <meta charset="UTF-8">
+    </head>
+    <body>
+        <h1>
+
+        <?php
+            echo "OLÁ MUNDO._."
+        ?>
+        </h1>    
+    <body>
+</html>

@@ -1,0 +1,12 @@
+Servdor Apache
+    - Servidor web
+    - protocolo http
+    - Representa quase 50% dos servidores web
+    - windows, linux, MAC
+    - Seguro
+    - Estável
+É o graçom
+    - Acessamos o site -> Enviamos para o server
+    - Navegador <- server
+    - Conteudo pronto para ser mostrado
+    - Temos agora o front-end
