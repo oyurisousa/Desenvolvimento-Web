@@ -7,7 +7,7 @@
         <h1>
 
         <?php
-            echo "OLÁ MUNDO._."
+            echo "OLÁ ._."
         ?>
         </h1>    
     <body>
